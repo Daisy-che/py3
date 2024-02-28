@@ -1,0 +1,16 @@
+#addition
+y=2
+x=4
+print(x+y)
+#subtraction
+a=6
+b=4
+print(a-b)
+#multiplication
+c=10
+d=5
+print(c*d)
+#division
+e=9
+f=12
+print(e/f)
